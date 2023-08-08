@@ -6,7 +6,7 @@ https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/sca
 2. Create an Azure virtual network (VNet) using azurerm_virtual_network
 3. Create an Azure Network Security Group (NSG) using azurerm_network_security_group
 4. Create two Azure subnets via azurerm_subnet for Postgres server and the AppService
-5. Create an Azure subnet Network Security Group (NSG) using azurerm_subnet_network_security_group_association
+5. Create an Azure subnet NSG using azurerm_subnet_network_security_group_association
 6. Define a private DNS zone within an Azure DNS using azurerm_private_dns_zone
 7. Define a private DNS zone VNet link using using azurerm_private_dns_zone_virtual_network_link
 8. Deploy an Azure PostgreSQL Flexible Server using azurerm_postgresql_flexible_server
