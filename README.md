@@ -41,5 +41,9 @@ postgres_flexible_server = "krassy"
 resource_group_name = "kr-rg-postgres-app"
 web_app = "kr-web-postgres.azurewebsites.net"
 ```
+Verify the App has been deployed and the container is ready to serve requests in "Log Stream"
+![image](https://github.com/krassykirov/terraform-az-webapp-postgres/assets/12232066/6d463352-2204-4fc0-aedc-f3f5873399d6)
+
+
 ![image](https://github.com/krassykirov/terraform-az-webapp-postgres/assets/12232066/9f64f6c7-9052-44fd-a7b0-c1c8c3ba2811)
 
