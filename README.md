@@ -17,6 +17,11 @@ https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/sca
 
 ![image](https://github.com/krassykirov/terraform-az-webapp-postgres/assets/12232066/2ec76ab2-1861-491a-850c-1a2831912c46)
 
+## Prerequisites
+
+```Terraform```
+```Azure CLI```
+
 ## Installation
 
 Clone the repo:
