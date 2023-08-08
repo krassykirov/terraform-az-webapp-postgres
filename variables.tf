@@ -52,7 +52,3 @@ variable "branch" {
   description = "Web App repo_url branch"
   default = "adding_photo_list_field"
 }
-
-variable "azurerm_monitor_autoscale_setting" {
-  default = "auto"
-}
