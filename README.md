@@ -15,6 +15,8 @@ https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/sca
 11. Deploy simple Azure Linux Web App with vNet Integration enabled using azurerm_linux_web_app - https://github.com/krassykirov/FastApiTest
 12. Deploy Autoscale settings for app service plan using azurerm_monitor_autoscale_setting
 
+![image](https://github.com/krassykirov/terraform-az-webapp-postgres/assets/12232066/2ec76ab2-1861-491a-850c-1a2831912c46)
+
 ## Installation
 
 Clone the repo:
